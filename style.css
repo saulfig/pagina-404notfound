@@ -1,0 +1,33 @@
+body{
+
+    background: #000;
+   
+  text-align: center;
+    font-size:  8em;
+letter-spacing: 0.15em;
+text-transform: uppercase;
+
+   
+
+text-shadow:
+    0 0 3px #fff,
+    0 0 9px #fff,
+    0 0 150px #fff,
+    0 0 9px  #a30000 ,
+    0 0 10px #a30000,
+    0 0 20px#a30000,
+    0 0 40px #a30000,
+    0 0 80px #a30000,
+    0 0 90px#a30000,
+    0 0 100px #a30000,
+    0 0 150px #a30000,
+    0 0 160px #a30000,
+    0 0 170px #a30000,
+    0 0 210px #a30000;
+
+
+    color:white;
+    font-family: 'Londrina Outline', monospace;
+}
+   
+
